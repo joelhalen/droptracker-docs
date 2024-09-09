@@ -1,4 +1,5 @@
-Welcome to Lumache's documentation!
+Welcome to the DropTracker documentation!
+
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

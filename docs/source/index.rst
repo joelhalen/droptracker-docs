@@ -2,17 +2,17 @@ Welcome to the DropTracker documentation!
 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The **DropTracker** is a RuneLite plugin that tracks drops, achievements, collection logs, and personal bests at various different bosses through Old School RuneScape.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+It pulls data from `WiseOldMan <https://www.wiseoldman.net/>`_ to manage members, name-changes, and group associations.
+
+This documentation intends to ensure that your set-up and use of the DropTracker is as seamless and simple as it possibly can be.
+
+Check out the :doc:`runelite` section for information on our RuneLite plugin, and the :doc:`discord_bot` section for information on our Discord bot.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. If you find that something is missing from the docs, please `Reach out <https://www.droptracker.io/discord/>`_.
 
 Contents
 --------

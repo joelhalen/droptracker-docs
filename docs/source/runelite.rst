@@ -15,5 +15,4 @@ Contents
 
    index
    getting_started
-   runelite
    discord_bot

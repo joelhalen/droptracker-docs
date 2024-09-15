@@ -16,9 +16,6 @@ Check out the :doc:`runelite` section for information on our RuneLite plugin, an
    This project is under active development. If you find that something is missing from the docs, please `Reach out <https://www.droptracker.io/discord/>`_.
 
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 1
    :caption: Contents

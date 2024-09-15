@@ -1,7 +1,7 @@
 Getting Started
 ===============
+
 Click here to return to the homepage: :doc:`index`
-------
 
 If you are just a user, and you are not in a group that is using the DropTracker, all you need to do is install the plugin. 
 

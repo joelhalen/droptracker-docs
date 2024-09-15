@@ -23,7 +23,6 @@ Contents
    :maxdepth: 1
    :caption: Contents
 
-   index
    welcome
    runelite
    discord_bot

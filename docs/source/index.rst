@@ -23,7 +23,6 @@ Contents
    :maxdepth: 1
    :caption: Contents
 
-   welcome
+   getting_started
    runelite
    discord_bot
-   getting_started

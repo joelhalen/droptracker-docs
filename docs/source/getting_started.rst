@@ -1,5 +1,5 @@
 Getting Started
-===================================
+===============
 Click here to return to the homepage: :doc:`index`
 ------
 

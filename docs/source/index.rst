@@ -1,14 +1,15 @@
-Welcome to the DropTracker documentation!
-
+Welcome to the DropTracker docs :)
 ===================================
 
 The **DropTracker** is a RuneLite plugin that tracks drops, achievements, collection logs, and personal bests at various different bosses through Old School RuneScape.
 
-It pulls data from `WiseOldMan <https://www.wiseoldman.net/>`_ to manage members, name-changes, and group associations.
+It pulls data from `WiseOldMan <https://www.wiseoldman.net/>`_ to manage group memberships, name-changes, and various bits of account data.
 
 This documentation intends to ensure that your set-up and use of the DropTracker is as seamless and simple as it possibly can be.
 
 Check out the :doc:`runelite` section for information on our RuneLite plugin, and the :doc:`discord_bot` section for information on our Discord bot.
+
+>> Check out :doc:`getting_started` to get started.
 
 .. note::
 
@@ -19,5 +20,5 @@ Contents
 
 .. toctree::
 
-   usage
+   welcome
    api

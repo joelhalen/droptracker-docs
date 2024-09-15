@@ -14,7 +14,6 @@ Contents
    :caption: Contents
 
    index
-   welcome
+   getting_started
    runelite
    discord_bot
-   getting_started

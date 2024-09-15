@@ -10,7 +10,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
    welcome
    runelite
-   discord
+   discord_bot
+   getting_started

@@ -21,4 +21,5 @@ Contents
 .. toctree::
 
    welcome
-   api
+   runelite
+   discord

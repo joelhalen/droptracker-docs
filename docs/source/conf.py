@@ -1,3 +1,5 @@
+import sys
+sys.setrecursionlimit(1500)
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information

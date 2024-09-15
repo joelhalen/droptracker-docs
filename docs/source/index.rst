@@ -1,4 +1,4 @@
-Welcome to the DropTracker documentation
+Welcome
 ===================================
 
 The **DropTracker** is a RuneLite plugin that tracks drops, achievements, collection logs, and personal bests at various different bosses through Old School RuneScape.
@@ -19,11 +19,12 @@ Check out the :doc:`runelite` section for information on our RuneLite plugin, an
 Contents
 --------
 
-   .. toctree::
-      :maxdepth: 1
-      :caption: Contents
-   
-      welcome
-      runelite
-      discord_bot
-      getting_started
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents
+
+   index
+   welcome
+   runelite
+   discord_bot
+   getting_started

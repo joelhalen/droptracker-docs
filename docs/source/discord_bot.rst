@@ -8,7 +8,5 @@ Discord Bot
    :caption: Contents
 
    index
-   welcome
-   runelite
-   discord_bot
    getting_started
+   runelite
